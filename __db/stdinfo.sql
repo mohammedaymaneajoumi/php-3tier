@@ -14,4 +14,3 @@ CREATE TABLE `stdinfo` . `student` (
 -- Records 
 -- ----------------------------
 INSERT INTO `stdinfo` . `student` VALUES ('1', 'John Doe', 'jdoe@example.org', null);
-INSERT INTO `stdinfo` . `student` VALUES ('2', null, null, null);
